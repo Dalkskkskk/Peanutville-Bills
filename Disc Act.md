@@ -1,4 +1,4 @@
-https://imgur.com/a/DhKWbS5
+[https://imgur.com/a/DhKWbS5]
 
 # Disc Act - Bill C-2
 **An act to ban discs related to terrorism, and make C418 - Wait the national anthem of Peanutville**
