@@ -1,4 +1,6 @@
-# Bill C-9 - Inital Trial\ Act
+![image](https://github.com/user-attachments/assets/78c8b4f8-52c8-4bb7-9cf3-5b543211482f)
+
+# Bill C-9 - Inital Trial Act
 **An act to change the current court system to the Inital Trial system.**
 
 1. This act shall be known as the Inital Trial Act.
