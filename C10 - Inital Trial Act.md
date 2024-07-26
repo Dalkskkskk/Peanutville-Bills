@@ -48,3 +48,5 @@
 **15.** A limit of three days is set on the initial trials. If a defendant receives a guilty verdict, they shall surrender to the court, and a sentence shall be provided the following day.
 
 **16.** Case appeals can be made if a guilty verdict is handed out.
+
+**17.** The government is no longer allowed to ban people. People suspected of doing bannable activities must be teleported into a detention centre, and go through a fair trial.
