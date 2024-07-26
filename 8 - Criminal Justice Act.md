@@ -1,4 +1,4 @@
-# Bill C-8 - Criminal Justice Act
+# Bill C-9 - Criminal Justice Act
 **An act that secures the rights of all inmates and criminals.**
 
 **1.** This bill may be known as the Criminal Justice Act.
