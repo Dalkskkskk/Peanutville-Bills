@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/78c8b4f8-52c8-4bb7-9cf3-5b543211482f)
 
-# Bill C-9 - Inital Trial Act
+# Bill C-10 - Inital Trial Act
 **An act to change the current court system to the Inital Trial system.**
 
 **Preamble** Because of criminal court dates almost never happening, and the need to speed trials up, The Minister of Public Safety, the President of Peanutivlle and the Parliament of Peanutville enacts as follows. 
